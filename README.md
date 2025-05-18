@@ -28,7 +28,7 @@
 ```markdown
 # Changelog
 
-## [1.1.0] - 2023-11-20
+## [1.1.0] - 2025-05-18
 ### Added
 - CoinMarketCap API integration
 - `/crypto` command for multiple coin prices
