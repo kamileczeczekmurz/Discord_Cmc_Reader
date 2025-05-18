@@ -28,6 +28,12 @@
 ```markdown
 # Changelog
 
+## [1.2.0] - 2025-05-19
+### Added
+- Solana price converter to USD,PLN
+- /commands for all commands list
+
+
 ## [1.1.0] - 2025-05-18
 ### Added
 - CoinMarketCap API integration
