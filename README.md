@@ -1,6 +1,6 @@
 # 🤖 Crypto Discord Bot
 
-A feature-rich Discord bot that fetches real-time cryptocurrency prices from CoinMarketCap API and manages server roles.
+ Discord bot that fetches real-time cryptocurrency prices from CoinMarketCap API and manages server roles.
 
 
 ## ✨ Features
